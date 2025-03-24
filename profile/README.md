@@ -8,7 +8,6 @@ O sistema será desenvolvido para uma psicológa parceira, com o objetivo de ate
 ## 🛠️ Construído com
 
 * [React 18](https://18.react.dev/) - Utilizado para desenvolver o frontend
-* [Node.js]() - Utilizado para desenvolver o backend 
-* [PHP 8.3](https://www.php.net/docs.php) - Utilizado para desenvolver o backend
+* [Node.js 18]() - Utilizado para desenvolver o backend 
 * [MySQL 8](https://www.mysql.com/) - Banco de dados
 * [Python 3.12.6](https://docs.python.org/3/) - Utilizado para desenvolver o chatbot
