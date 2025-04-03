@@ -7,7 +7,9 @@ O sistema será desenvolvido para uma psicológa parceira, com o objetivo de ate
 
 ## 🛠️ Construído com
 
-* [React 18](https://18.react.dev/) - Utilizado para desenvolver o frontend
-* [Node.js 18]() - Utilizado para desenvolver o backend 
+* [React 19](https://react.dev/) - Utilizado para desenvolver o frontend
+* [Node.js 18](https://nodejs.org/pt/download) - Utilizado para desenvolver o backend 
 * [MySQL 8](https://www.mysql.com/) - Banco de dados
 * [Python 3.12.6](https://docs.python.org/3/) - Utilizado para desenvolver o chatbot
+* [Docker 4.39.0](https://docs.docker.com/desktop/) - Gerenciamento de containers e ambientes isolados
+* [docker-compose 2.33.1](https://docs.docker.com/compose/) - Orquestração dos serviços da aplicação via containers
